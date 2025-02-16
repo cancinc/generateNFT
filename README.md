@@ -8,7 +8,7 @@ This project uses a prompt to seed a random art generator that creates a set of 
 
 ## Files
 
-- **generate_nft.py**: The main script to generate the NFT images.
+- **generative_nft.py**: The main script to generate the NFT images.
 - **requirements.txt**: Contains the dependencies needed for the project.
 - **.gitignore**: Ignores the folder where generated images are stored.
 
@@ -17,4 +17,4 @@ This project uses a prompt to seed a random art generator that creates a set of 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/cancinc/GenerativeNFT.git
-   cd GenerativeNFT
+   cd GenerateNFT
